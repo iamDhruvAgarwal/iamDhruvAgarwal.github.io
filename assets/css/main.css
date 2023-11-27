@@ -3972,6 +3972,10 @@ input, select, textarea {
 			color: #717981;
 			border-bottom-color: rgba(113, 121, 129, 0.5);
 		}
+		#footer p{
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-size: 2rem !important;
+		}
 
 			#footer a:hover {
 				border-bottom-color: transparent;
